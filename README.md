@@ -1,4 +1,4 @@
 # GitHub
 
 
-##aprendiendo a usar la consola, clonar repositorio
+## Aprendiendo a usar la consola, clonar repositorio
