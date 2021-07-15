@@ -8,7 +8,8 @@
 
 * Estado de nuestros archivos, archivos y la rama
 	git status
-
+![Estado de los archivos sin agregar cambios ](./img/status.PNG)
+![con cambios ](./img/statusmodified.PNG)
 * Añadir cambios.
 	git add .
 
