@@ -1,12 +1,25 @@
 # GitHub
 
 
-## Usando la consola
+## Comandos basicos en consola
 
 * Clonar repositorio
+	git clone url del repo
 
-git pull origin main
+* Estado de nuestros archivos, archivos y la rama
+	git status
+
+* Añadir cambios.
+	git add .
+
+* Guardar un commit
 git commit -m "regañona de Paola"
-git status
-git 
-git add .
+
+* Subir cambios
+	git pull origin main
+
+* Podemos ver la informacion de los commit
+	git log
+
+
+
