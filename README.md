@@ -29,3 +29,5 @@ git commit -m "regañona de Paola"
 	git reset --hard HEAD~1
 
 HOLAAAA, has manejado muy bien los comandos
+
+*La clase con la profe Paola super  procdutiva la voy a recomendar :)
