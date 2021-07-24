@@ -28,6 +28,12 @@ git commit -m "regañona de Paola"
 * para resetiar un commit que hayamos hecho
 	git reset --hard HEAD~1
 
+* git log --merge 
+
+* git reset --mixed 
+
+* git merge --abort
+
 HOLAAAA, has manejado muy bien los comandos
 
 *La clase con la profe Paola super  procdutiva la voy a recomendar :)
