@@ -25,6 +25,7 @@ git commit -m "regañona de Paola"
 * Lady Paola se puso de malgenio
 
 
-*para resetiar un commit que hayamos hecho
-git reset --hard HEAD~1
+* para resetiar un commit que hayamos hecho
+	git reset --hard HEAD~1
 
+HOLAAAA, has manejado muy bien los comandos
