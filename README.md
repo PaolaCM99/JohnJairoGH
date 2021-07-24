@@ -22,6 +22,6 @@ git commit -m "regañona de Paola"
 
 * Podemos ver la informacion de los commit
 	git log
-
+* Lady Paola se puso de malgenio
 
 
