@@ -35,3 +35,5 @@ git commit -m "regañona de Paola"
 HOLAAAA, has manejado muy bien los comandos
 
 *La clase con la profe Paola super  procdutiva la voy a recomendar :)
+
+* git checkout --- para cambiar de ramas y se agrega el nombre de la rama al final
