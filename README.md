@@ -35,3 +35,11 @@ git commit -m "regañona de Paola"
 HOLAAAA, has manejado muy bien los comandos
 
 *La clase con la profe Paola super  procdutiva la voy a recomendar :)
+
+
+* git checkout para cambiar de ramas y al final escribo la rama a donde deseo pasarme
+
+
+*git branch  con este comando listo las ramas que estan creadass
+*git branch "nombre de la rama"   con este comando y al final escribo la rama que deseo crear
+*git branch -d   con este comando y al final escribo la rama que deseo eliminar
